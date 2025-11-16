@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Survilence APP
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Version-2-Military-Surveillance
+>>>>>>> f361680b881ae9c2d7f97f63a7e12434c797b13c
